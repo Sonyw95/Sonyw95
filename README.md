@@ -8,7 +8,7 @@
 </br>
 </br>
 
-
+![main_logo-dark](https://user-images.githubusercontent.com/60971782/230781676-8ea96ca2-f64f-4f43-ae84-5d950df7d030.png)
 
 
 <div align="center">
