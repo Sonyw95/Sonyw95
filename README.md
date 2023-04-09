@@ -17,19 +17,22 @@
 
 </br>
 <div align="center">
- <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white">
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=JAVA&logoColor=white">
- <img src="https://img.shields.io/badge/JAVASCRIPT-3776AB?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
+ <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
  </br>
- <img src="https://img.shields.io/badge/Gradle-3776AB?style=for-the-badge&logo=Gradle&logoColor=white">
- <img src="https://img.shields.io/badge/Oracle-3776AB?style=for-the-badge&logo=Oracle&logoColor=white">
- <img src="https://img.shields.io/badge/Jenkins-3776AB?style=for-the-badge&logo=Jenkins&logoColor=white">
+ <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
  </br>
- <img src="https://img.shields.io/badge/Gitlab-3776AB?style=for-the-badge&logo=Gitlab&logoColor=white">
- <img src="https://img.shields.io/badge/Nginx-3776AB?style=for-the-badge&logo=Nginx&logoColor=white">
- <img src="https://img.shields.io/badge/OCP-3776AB?style=for-the-badge&logo=OCP&logoColor=white">
+ <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=GITLAB&logoColor=white">
+ <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+ <img src="https://img.shields.io/badge/OCP-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">
  </br>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+ <img src="https://img.shields.io/badge/MAVEN-5A6AB1?style=for-the-badge&logo=MAVEN&logoColor=white">
+ <img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
+ 
  
 </div>
  </br>
