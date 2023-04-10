@@ -14,6 +14,10 @@
 </div>
 </br>
 
+<div align="center">
+<h4> 개인 GITLAB서버를 주 사용합니다. GITHUB는 SUB 입니다.</h4>
+</div>
+</br>
 
 
 <div align="center">
