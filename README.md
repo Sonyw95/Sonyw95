@@ -60,8 +60,8 @@
 
 
 
-# 손영욱 · Java Backend Developer
-- Email: sonyw32@naver.com · Phone: +82 10-8963-7805 · Blog: https://blog.labit.kr
+# Java Backend Developer
+- Email: sonyw32@naver.com  · Blog: https://blog.labit.kr
 - About: AEM 기반 DXP와 병원/WMS 도메인 특화. 안정성과 확장성을 중시하는 백엔드 엔지니어. 
 - Keywords: Java, Spring Boot/Framework, JPA, Oracle, SQL Tuning, Docker, Jenkins, GitLab CI, Nginx
 
@@ -81,22 +81,32 @@
   - DAM 업로드/압축/버전관리 자동화, 대량 파일 배치 처리(작업 시간 90% 단축)
 - Stack: OpenJDK 11, AEM 6.5, React.js, Maven
 - Impact: 글로벌 서비스센터 정비 매뉴얼 운영 효율 극대화
-  <!-- 참고: filecite turn0file7 -->
 
 ### 충남대병원 WMS 성능 개선 (2021.01–2021.04)
 - Problem: 출하 처리량 증가로 성능 저하/지연
 - Solution: 할당 알고리즘 재설계(선입선출+유효기간), NOWAIT 실패 → 배치 재시도, 복잡 조인 SQL 튜닝
 - Result: 처리 성능 약 50% 향상
 - Stack: Java 8, Spring, Oracle 12c, MyBatis, Jenkins
-  <!-- 참고: filecite turn0file3 -->
 
 ### 중앙대병원 재고 API 통합 (2022.02–2022.04)
 - What: 2개 병원 재고 실시간 동기화 REST API, 매일 11:50 배치 동기화·정산 자동화, 대시보드
 - Stack: Java 8, Spring, Oracle 12c
-  <!-- 참고: filecite turn0file4 -->
 
 ### 전남대병원 물류 신규 (2021.06–2022.10)
-- What: 통합 계약 관리(전자서명), 스마트 발주(예측), 전
+- What: 통합 계약 관리(전자서명), 스마트 발주(예측), 전자세금계산서·그룹웨어 연동
+- Impact: 수기 업무 디지털 전환, 계약-발주-정산 프로세스 통합
+
+## Experience
+- Springworks, Inc. – 플랫폼 개발팀 대리 (2023.05–2025.06)
+- JDI&S – 솔루션 사업부 2팀 주임 (2020.07–2023.03)
+
+## Education
+- 한국방송통신대학교 컴퓨터과학과 (2023.02–재학, 2026.02 졸업 예정)
+- 한국방송예술교육진흥원 공연예술(성우) 전문학사 (2014.03–2019.02)
+
+## Links
+- Blog: https://blog.labit.kr
+
 
 
 
